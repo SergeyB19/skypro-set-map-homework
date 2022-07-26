@@ -2,8 +2,8 @@ import java.util.*;
 import java.util.stream.Collectors;
 
 public class Main {
-    private static final List<Integer> nums = new ArrayList<>(List.of(1, 1, 2, 3, 4, 4, 5, 5, 6, 7));
-    private static final List<String> words = new ArrayList<>(List.of("abc", "abc", "bcd", "bcd", "e"));
+    private static final List<Integer> nums = new ArrayList<>(List.of(1, 1, 2, 3, 4, 4, 5, 5, 6, 7,8,9,10,11,12,13,14,15,16,17));
+    private static final List<String> words = new ArrayList<>(List.of("abc", "abc", "bcd", "bcd", "e","abc", "abc", "bcd", "bcd", "e"));
 
     public static void main(String[] args) {
         task1();
